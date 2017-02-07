@@ -1,0 +1,58 @@
+body {
+	background-color: #E6E393
+}
+
+
+form {
+	margin: 30px auto;
+	width: 320px;
+	color: green;
+}
+
+title {
+	color: red;
+}
+h1  {
+   text-align: left;
+   font-size: 35px;
+   color: purple;
+   }
+
+
+h2  {
+   text-align: left;
+   font-size: 15px;
+   color: pink;
+   }
+
+
+h3 {
+   text-align: left;
+   font-size: 25px;
+   color: brown;
+   }
+
+h3 {
+   text-align: left;
+   font-size: 30px;
+   color: yellow;
+   } 
+
+h6 {
+   text-align: center;
+   font-size: 32px;
+   color: red;
+   } 
+
+article {
+text-align: center;
+   font-size: 16px;
+   color: black;
+
+}
+
+footer {
+	text-align: left;
+	font-size: 45px;
+	margin: 0 10px 25px 20px;
+}
