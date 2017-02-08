@@ -24,7 +24,7 @@ h1  {
 h2  {
    text-align: left;
    font-size: 25px;
-   color: pink;
+   color: red;
    }
 
 
@@ -49,7 +49,17 @@ div {
    text-align: center;
    font-size: 16px;
 
+}
+p {
+   font-size: 18px;
+   color: green;
 }  
+q {
+   font-size: 18px;
+   color: brown;
+}
+
+
 
 img {
    text-align: center;
