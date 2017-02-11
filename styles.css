@@ -22,22 +22,24 @@ h1  {
 
 
 h2  {
-   text-align: left;
+   text-align: center;
    font-size: 25px;
    color: red;
+    word-wrap: break-word;
+}
    }
 
 
 h3 {
-   text-align: left;
+   text-align: center;
    font-size: 25px;
    color: brown;
    }
 
 h4 {
-   text-align: left;
+   text-align: center;
    font-size: 30px;
-   color: yellow;
+   color: green;
    } 
 
 h5 {
@@ -51,14 +53,24 @@ div {
 
 }
 p {
+   text-align: center;
    font-size: 18px;
    color: green;
-}  
+   padding-right: 200px;
+   padding-left: 200px;
+} 
+
 q {
+   text-align: center;
    font-size: 18px;
    color: brown;
+   padding-right: 200px;
+   padding-left: 200px;
 }
 
+form {
+   font-size: 16px;
+}
 
 
 img {
